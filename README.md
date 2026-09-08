@@ -1,6 +1,6 @@
-# 保质期助手 - 隐私政策托管仓库
+# 鲜迹 - 隐私政策托管仓库
 
-本仓库仅用于托管 HarmonyOS 应用「保质期助手」的隐私政策页面（GitHub Pages）。
+本仓库仅用于托管 HarmonyOS 应用「鲜迹」的隐私政策页面（GitHub Pages）。
 
 - 政策正文：`index.md`
 - 线上地址（启用 Pages 后生效）：`https://sensmew.github.io/baozhiqi-privacy/`
